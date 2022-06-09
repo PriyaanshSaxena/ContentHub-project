@@ -1,0 +1,24 @@
+.page, html, body {
+    height: 98%;
+}
+.left {
+    float: left;
+    width: 20%;
+    background: white;
+    height: 100%;
+    overflow: scroll;
+}
+.center{
+    float: left;
+    width: 60%;
+    background:white;
+    height: 100%;
+    overflow: scroll;
+}
+.right {
+    float: left;
+    width: 20%;
+    background: white;
+    height: 100%;
+    overflow: scroll;
+}

@@ -1,0 +1,55 @@
+.tags-card{
+    padding: 10px;
+}
+
+.tags{
+    border-radius: 25px;
+    background-color: aqua;
+    color: blue;
+}
+
+.tag-symbol{
+  padding-top: 8px;
+}
+
+.text-below-tag{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+}
+
+.profilepic-small{
+    height: 30px;
+    border-radius: 100px;
+    padding-left: 8%;
+}
+
+
+.comment{
+    padding-left: 20%;
+}
+
+.publish-button-container{
+    padding: 10%;
+}
+.publish-button{
+    -webkit-border-radius: 42;
+    -moz-border-radius: 42;
+    border-radius: 42px;
+    font-family: Arial;
+    color: #0080ff;
+    font-size: 15px;
+    background: #fcfcfc;
+    padding: 5px 10px 5px 10px;
+    border: solid #0080ff 4px;
+    text-decoration: none;
+}
+.publish-button:hover{
+    background: #e0e0e0;
+    background-image: -webkit-linear-gradient(top, #e0e0e0, #a093ab);
+    background-image: -moz-linear-gradient(top, #e0e0e0, #a093ab);
+    background-image: -ms-linear-gradient(top, #e0e0e0, #a093ab);
+    background-image: -o-linear-gradient(top, #e0e0e0, #a093ab);
+    background-image: linear-gradient(to bottom, #e0e0e0, #a093ab);
+    text-decoration: none;
+}
